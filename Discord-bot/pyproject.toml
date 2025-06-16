@@ -1,7 +1,7 @@
 [project]
-name = "repl-nix-workspace"
-version = "0.1.0"
-description = "Add your description here"
+name = "scope."
+version = "0.3.0"
+description = "Discord-bot"
 requires-python = ">=3.11"
 dependencies = [
     "aiofiles>=24.1.0",
