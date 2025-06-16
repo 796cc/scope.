@@ -1,0 +1,12 @@
+{
+  "default": {
+    "enabled": false,
+    "messagesPerInterval": 1,
+    "intervalSeconds": 3,
+    "warningThreshold": 3,
+    "muteDurationMinutes": 5,
+    "action": "mute",
+    "clearMessagesOnMute": false,
+    "channels": {}
+  }
+}
